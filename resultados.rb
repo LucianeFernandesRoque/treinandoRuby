@@ -1,0 +1,3 @@
+class Resultados
+ 
+end
